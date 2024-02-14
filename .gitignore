@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# End of https://www.toptal.com/developers/gitignore/api/go,docker,macos,visualstudiocode
+.docker
+.idea
+
+
+rabbitmq/config/
+rabbitmq/data/
+rabbitmq/logs/
